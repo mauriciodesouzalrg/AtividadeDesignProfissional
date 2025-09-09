@@ -1,4 +1,4 @@
- Projeto: "Sistema métrico decimal"
+ Projeto: Conversor de medidas "Sistema métrico decimal".
 
 🎯 Objetivo:
 
